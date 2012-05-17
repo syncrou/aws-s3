@@ -1,5 +1,3 @@
-$LOAD_PATH.unshift 'lib'
-
 Gem::Specification.new do |s|
   s.name              = 'aws-s3'
   s.version           = Gem::Version.new(AWS::S3::Version)
